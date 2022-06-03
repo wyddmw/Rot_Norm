@@ -1,0 +1,8 @@
+**__pycache__**
+/output
+**build**
+**.egg-info**
+**Eval-*.log**
+sftp-config.json
+my_env.sh
+*.so
